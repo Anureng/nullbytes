@@ -54,7 +54,7 @@ export default function HomePage() {
                                     </CardTitle>
                                 </CardHeader>
                                 <CardContent>
-                                    <p>We create responsive, user-friendly websites tailored to your needs. From simple landing pages to complex web applications, we've got you covered.</p>
+                                    <p>We create responsive, user-friendly websites tailored to your needs. From simple landing pages to complex web applications, we have got you covered.</p>
                                 </CardContent>
                             </Card>
                             <Card>
@@ -140,7 +140,7 @@ export default function HomePage() {
                             <div className="space-y-2">
                                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Ready to Get Started?</h2>
                                 <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                                    Join our growing list of satisfied clients. Let's bring your ideas to life. Contact us today for a free consultation.
+                                    Join our growing list of satisfied clients. Lets bring your ideas to life. Contact us today for a free consultation.
                                 </p>
                             </div>
                             <div className="w-full max-w-sm space-y-2">
